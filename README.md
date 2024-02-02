@@ -1,2 +1,3 @@
-# .github
-Simple Note App organization repository for profile
+# Simple Note App
+
+Prepare for beta release...
