@@ -1,0 +1,3 @@
+# Simple Note App
+
+Prepare for beta release...
